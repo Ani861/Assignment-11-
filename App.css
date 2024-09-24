@@ -1,0 +1,45 @@
+
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f8ff;
+  padding: 20px;
+}
+
+
+.App h1 {
+  color: #4d79ff;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+
+img {
+  border-radius: 15px;
+  border: 5px solid #4d79ff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+button {
+  background-color: #4d79ff;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+button:hover {
+  background-color: #3a63cc;
+}
+
+
+p {
+  font-size: 1.2rem;
+  color: #333;
+}
